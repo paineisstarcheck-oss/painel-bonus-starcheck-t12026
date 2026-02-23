@@ -1,0 +1,38 @@
+{
+  "JANEIRO": {
+    "financeiro": true,
+    "qualidade": true,
+    "producao_por_cidade": {
+      "SÃO LUIS": true,
+      "BACABAL": false,
+      "BALSAS": false,
+      "PINHEIRO": false,
+      "CODÓ": true,
+      "CAXIAS": false
+    }
+  },
+  "FEVEREIRO": {
+    "financeiro": true,
+    "qualidade": true,
+    "producao_por_cidade": {
+      "SÃO LUIS": true,
+      "BACABAL": true,
+      "BALSAS": true,
+      "PINHEIRO": true,
+      "CODÓ": true,
+      "CAXIAS": true
+    }
+  },
+  "MARÇO": {
+    "financeiro": true,
+    "qualidade": true,
+    "producao_por_cidade": {
+      "SÃO LUIS": true,
+      "BACABAL": true,
+      "BALSAS": true,
+      "PINHEIRO": true,
+      "CODÓ": true,
+      "CAXIAS": true
+    }
+  }
+}
